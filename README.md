@@ -7,8 +7,8 @@ A one stop web based solution for management and supervision built for start up 
 - Download option in image format of the resopnse submitted in the forms to send on whatsapp directly.
 - Tracking the shipment of PO's (purchase orders) form the vendors with real time updation.
 - Employees managent and division into groups.
-- Some Screenshots of the project are
 
+## Screenshots
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/83952361/206125952-b945d4c4-5aca-4b96-97db-0b5f0abfa42f.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/83952361/206125985-65f9dd24-cb91-4fa0-95ce-cabc98f0c229.png)
