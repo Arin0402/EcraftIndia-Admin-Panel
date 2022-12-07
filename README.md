@@ -1,5 +1,5 @@
 # EcraftIndia Admin Panel
-- A one stop web based solution for management and supervision built for start up called eCraftIndia.
+A one stop web based solution for management and supervision built for start up called eCraftIndia.
 - A dashboard for analytics purpose containing graphs and tables and custom filters.
 - Inventroy management of products by searching and filtering.
 - Catalog generation.
