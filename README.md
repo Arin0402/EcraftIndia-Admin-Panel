@@ -8,6 +8,8 @@
 - Tracking the shipment of PO's (purchase orders) form the vendors with real time updation.
 - Employees managent and division into groups.
 - Some Screenshots of the project are
+
+
 ![Screenshot (3)](https://user-images.githubusercontent.com/83952361/206125952-b945d4c4-5aca-4b96-97db-0b5f0abfa42f.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/83952361/206125985-65f9dd24-cb91-4fa0-95ce-cabc98f0c229.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/83952361/206126019-f5531226-4102-4390-b711-898148b97be9.png)
